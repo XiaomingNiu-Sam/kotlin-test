@@ -5,3 +5,7 @@ fun main() {
 fun test() {
     println("test")
 }
+
+fun test2() {
+    println("test2")
+}
